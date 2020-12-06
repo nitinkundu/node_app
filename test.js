@@ -1,3 +1,4 @@
 {
-	"key" = "value"
+	"key" : "value",
+	"key1" : "value1"
 }
